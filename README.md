@@ -8,6 +8,7 @@ Creating a food delivery app which will include the following features:
   2. A login or sign-up page (Entering details like name, email-id, phone number, etc) 
   
   FOR CUSTOMER :
+  
     3. Food outlets and respective menus
     
     4. Delivery pick-up point page using GPS (auto- location detection)
