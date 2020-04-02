@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#BAEF2415</color>
-    <color name="colorPrimaryDark">#E9AE1105</color>
-    <color name="colorAccent">#E4817A</color>
-    <color name="textColor">#F26E2605</color>
-    <color name="backgroundColor">#D2F16F63</color>
-    <color name="dashboardColor">#E11B0220</color>
-</resources>
